@@ -18,7 +18,7 @@ O projeto faz parte dos meus estudos em desenvolvimento web, com foco na criaç�
 - **CSS3:** estilização da interface, cores, layouts e elementos visuais.
 - **JavaScript:** implementação da lógica, interatividade e manipulação dos elementos da página.
 
-![alt text]({58BDD3F1-AD08-4D87-A983-18EF39E7CDAA}.png)
+<img width="790" height="699" alt="{58BDD3F1-AD08-4D87-A983-18EF39E7CDAA}" src="https://github.com/user-attachments/assets/c0cd8f6e-6388-4b84-9bd6-191701d24f60" />
 
 ## 📚 Objetivos de Aprendizado
 
